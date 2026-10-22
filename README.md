@@ -1,1 +1,3 @@
-# 草薙素子
+# 草薙 素子
+
+Motoko Kusanagi
